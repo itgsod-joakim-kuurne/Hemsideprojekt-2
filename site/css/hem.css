@@ -2,6 +2,7 @@ body {
     background-color: powderblue;
 }
 
+
 #container {
     width: 80%;
     height: 600px;
@@ -15,9 +16,11 @@ body {
     background-color: skyblue;
 }
 
+
 #logo {
     float: left;
 }
+
 
 #header h1 {
     float: left;
@@ -31,12 +34,14 @@ body {
     background-color: skyblue;
 }
 
+
 #content {
     width: 100%;
     height: 520px;
     background-color: white;
     float: left;
 }
+
 
 #menubar {
     width: 99.5%;
@@ -45,30 +50,37 @@ body {
     border: 3px solid;
 }
 
+
 #hem {
     margin-left: 110px;
     float: left;
-
-
 }
+
 
 #schema {
     margin-left: 130px;
     float: left;
-
-
 }
+
 
 #uppgifter {
     margin-left: 130px;
     float: left;
-
-
 }
+
 
 #logga_ut {
     margin-left: 110px;
     float: left;
+}
 
 
+#hemnews_container {
+    border: 3px solid;
+    height: 458px;
+}
+
+
+#hemnews {
+    width: 450px;
 }
