@@ -1,0 +1,109 @@
+body {
+    background-color: powderblue;
+}
+
+
+#container {
+    width: 80%;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#header {
+    width: 100%;
+    height: 80px;
+    background-color: skyblue;
+}
+
+
+#logo {
+    float: left;
+}
+
+
+#header h1 {
+    float: left;
+    padding-left: 2ex;
+}
+
+
+#menu {
+    width: 100%;
+    height: 4px;
+    background-color: skyblue;
+}
+
+
+#content {
+    width: 100%;
+    height: 520px;
+    background-color: white;
+    float: left;
+}
+
+
+#menubar {
+    width: 99.5%;
+    height: 50px;
+    background-color: skyblue;
+    border: 3px solid;
+}
+
+
+#hem {
+    margin-left: 110px;
+    float: left;
+}
+
+
+#schema {
+    margin-left: 130px;
+    float: left;
+}
+
+
+#uppgifter {
+    margin-left: 130px;
+    float: left;
+}
+
+
+#logga_ut {
+    margin-left: 110px;
+    float: left;
+}
+
+
+#headnav
+    th,td {
+
+    text-align: center;
+    border-collapse: collapse;
+    outline: 1px solid #e3e3e3;
+    padding: 5px 10px;
+    background-color: #61B4CF;
+}
+
+
+th {
+    background: #444;
+    color: white;
+    padding: 5px 10px;
+}
+
+
+td:hover {
+    cursor: pointer;
+    background: #444;
+    color: white;
+}
+
+
+#Schematable {
+    height:90%;
+    float:left;
+    margin-top:-3%;
+    border: 3px solid;
+}
