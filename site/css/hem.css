@@ -88,3 +88,25 @@ body {
 #hemnews {
     width: 450px;
 }
+
+
+
+@media (max-width: 650px) {
+
+    #logo {
+        display: none;
+    }
+
+    #header {
+        display: none;
+    }
+
+    h1 {
+        margin-left: 10px!important;
+        font-size: 25px;
+    }
+
+    #skola3 {
+        display: none;
+    }
+}
