@@ -52,6 +52,7 @@ body {
 
 
 #hem {
+    margin-top: 10px;
     margin-left: 110px;
     float: left;
 }
@@ -60,18 +61,21 @@ body {
 #schema {
     margin-left: 130px;
     float: left;
+    margin-top: 10px;
 }
 
 
 #uppgifter {
     margin-left: 130px;
     float: left;
+    margin-top: 10px;
 }
 
 
 #logga_ut {
     margin-left: 110px;
     float: left;
+    margin-top: 10px;
 }
 
 
